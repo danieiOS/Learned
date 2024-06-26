@@ -1,2 +1,2 @@
 # Learned
-1. Problem 2. Attempt 3. Solve 4. 
+Problem - Attempt - Solve - What I learned
